@@ -1,2 +1,2 @@
 # Patatap-Clone
-A webiste that has the same functionality as the original one
+A webiste that has the same functionality as the original one.
